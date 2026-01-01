@@ -1,5 +1,12 @@
 # Changelog
 
+## [25.99.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.98.0...v25.99.0) (2026-01-01)
+
+
+### Features
+
+* **add:** zFlora_X_Max, MODKAM_Flower, EFEKTA_ePST_POW_V2, Netuya_CO2_Smart_Box, EFEKTA_PS_POW_PRO, EFEKTA_T1_POW_NTC10K, EFEKTA_T1_NTC10K, EFEKTA_DigiBaro ([#11149](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11149)) ([3098f87](https://github.com/Koenkk/zigbee-herdsman-converters/commit/3098f876071fcd30222c47e6157b8c9fa43be5bc))
+
 ## [25.98.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.97.0...v25.98.0) (2026-01-01)
 
 
